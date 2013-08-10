@@ -16,6 +16,8 @@
  * Inspired by cpixip.
  * See http://arduino.cc/forum/index.php/topic,54795.0.html
  */
+ 
+ /* Some changes from Robotic Boyer*/
 
 #include <SPI.h>
 #include "nRF24L01.h"

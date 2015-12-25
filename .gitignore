@@ -16,3 +16,7 @@
 *.out
 *.app
 /.project
+
+
+# Others
+*.md~

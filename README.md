@@ -1,8 +1,4 @@
-Arduino Programs by Robotic Boyer
+Esempi Arduino  by RoboticBoyer
 =======
-
-Arduino Project
-Some Arduino Codes from my hobby projects 
-
-Collezione dei miei file INO
+Collezione dei miei file INO per Arduino
 

@@ -1,14 +1,14 @@
 Cutecom Configuration lost
 ==========================
 
-When Cutecom in Linux loses the configuration from the terminal:
+When Cutecom in Linux loses the configuration, it's required to write in the terminal:
 
 ```
 cd ~/.config/CuteCom/
 rm CuteCom.conf
 ```
 
-The Arduino and ESP8266 tipical USB dev file:
+The Arduino and ESP8266 tipical USB dev file are:
 
 ```
 dev/ttyACM0
